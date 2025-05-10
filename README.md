@@ -16,13 +16,13 @@ Download
 [run-project-cmd](https://drive.google.com/uc?export=download&id=156FgAsyDbUaKj6OR1yHVrHAAK6_9_nfa)
 
 Extract files-
-(Make sure you have both CMD in same folder)
-(Run `Automated-Attendance-Monitoring.cmd` to run the project directly)
-(Run `Restart-Automated-Attendance-Monitoring.cmd` to reset project)
+- (Make sure you have both CMD in same folder)
+- (Run `Automated-Attendance-Monitoring.cmd` to run the project directly)
+- (Run `Restart-Automated-Attendance-Monitoring.cmd` to reset project)
 
-(make sure you have basic requirements given in `BasicRequirements&Error.txt`)
-(for run Error: check out `BasicRequirements&Error.txt`)
-(for more info about CMD check out `ReadME.txt`)
+- (make sure you have basic requirements given in `BasicRequirements&Error.txt`)
+- (for run Error: check out `BasicRequirements&Error.txt`)
+- (for more info about CMD check out `ReadME.txt`)
 
 
 ## 🚀 Project Workflow & Explanation
