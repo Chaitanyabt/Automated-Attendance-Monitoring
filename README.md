@@ -12,7 +12,7 @@
 
 ### Alternative Way (Faster)
 
-Download - [run-project-cmd](https://drive.google.com/uc?export=download&id=156FgAsyDbUaKj6OR1yHVrHAAK6_9_nfa) (click to downlaod)
+#### Download - [run-project-cmd](https://drive.google.com/uc?export=download&id=156FgAsyDbUaKj6OR1yHVrHAAK6_9_nfa) (click to downlaod)
 
 Extract files
 - (Make sure you have both CMD in same folder)
