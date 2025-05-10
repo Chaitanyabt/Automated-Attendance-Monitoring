@@ -11,16 +11,13 @@ import time
 import tkinter.font as font
 import pyttsx3
 
-# project module
+
 import show_attendance
 import takeImage
 import trainImage
 import automaticAttedance
 
-# engine = pyttsx3.init()
-# engine.say("Welcome!")
-# engine.say("Please browse through your options..")
-# engine.runAndWait()
+
 
 
 def text_to_speech(user_text):
@@ -50,12 +47,12 @@ dialog_text = "Are you sure want to close?"
 window.configure(background="#1c1c1c")  # Dark theme
 
 
-# to destroy screen
+
 def del_sc1():
     sc1.destroy()
 
 
-# error message for name and no
+
 def err_screen():
     global sc1
     sc1 = tk.Tk()
@@ -76,7 +73,7 @@ def err_screen():
         text="OK",
         command=del_sc1,
         fg="yellow",
-        bg="#333333",  # Darker button color
+        bg="#333333", 
         width=9,
         height=1,
         activebackground="red",
@@ -84,7 +81,7 @@ def err_screen():
     ).place(x=110, y=50)
 
 def testVal(inStr, acttyp):
-    if acttyp == "1":  # insert
+    if acttyp == "1":  
         if not inStr.isdigit():
             return False
     return True
