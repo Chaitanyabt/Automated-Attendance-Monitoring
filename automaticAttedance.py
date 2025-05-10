@@ -20,7 +20,7 @@ studentdetail_path = (
     "StudentDetails\\studentdetails.csv"
 )
 attendance_path = "Attendance"
-# for choose subject and fill attendance
+
 def subjectChoose(text_to_speech):
     def FillAttendance():
         sub = tx.get()
@@ -107,8 +107,7 @@ def subjectChoose(text_to_speech):
 
                 ts = time.time()
                 print(aa)
-                # attendance["date"] = date
-                # attendance["Attendance"] = "P"
+ 
                 attendance[date] = 1
                 date = datetime.datetime.fromtimestamp(ts).strftime("%Y-%m-%d")
                 timeStamp = datetime.datetime.fromtimestamp(ts).strftime("%H:%M:%S")
@@ -187,20 +186,17 @@ def subjectChoose(text_to_speech):
                 text_to_speech(f)
                 cv2.destroyAllWindows()
 
-    ###windo is frame for subject chooser
+
     subject = Tk()
-    # windo.iconbitmap("AMS.ico")
+
     subject.title("Subject...")
     subject.geometry("580x320")
     subject.resizable(0, 0)
     subject.configure(background="black")
-    # subject_logo = Image.open("UI_Image/0004.png")
-    # subject_logo = subject_logo.resize((50, 47), Image.ANTIALIAS)
-    # subject_logo1 = ImageTk.PhotoImage(subject_logo)
+
     titl = tk.Label(subject, bg="black", relief=RIDGE, bd=10, font=("arial", 30))
     titl.pack(fill=X)
-    # l1 = tk.Label(subject, image=subject_logo1, bg="black",)
-    # l1.place(x=100, y=10)
+
     titl = tk.Label(
         subject,
         text="Enter the Subject Name",
