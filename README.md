@@ -4,12 +4,26 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/) 
 
-### What steps you have to follow ?
+### RUN Project (Recommaned) 
+
 - Download or clone my Repository to your device
 - type `pip install -r requirements.txt` in command prompt(this will install required package for project)
 - Run `attandance.py` file
 
-  
+### Alternative Way (Faster)
+
+Download 
+[run-project-cmd](https://drive.google.com/uc?export=download&id=156FgAsyDbUaKj6OR1yHVrHAAK6_9_nfa)
+
+Extract files-
+(Make sure you have both CMD in same folder)
+(Run `Automated-Attendance-Monitoring.cmd` to run the project directly)
+(Run `Restart-Automated-Attendance-Monitoring.cmd` to reset project)
+
+(make sure you have basic requirements given in `BasicRequirements&Error.txt`)
+(for run Error: check out `BasicRequirements&Error.txt`)
+(for more info about CMD check out `ReadME.txt`)
+
 
 ## 🚀 Project Workflow & Explanation
 
