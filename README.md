@@ -4,13 +4,13 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/) 
 
-### RUN Project (Recommaned) 
+### RUN Project (recommended) 
 
 - Download or clone my Repository to your device
 - type `pip install -r requirements.txt` in command prompt(this will install required package for project)
 - Run `attandance.py` file
 
-### Alternative Way (Faster)
+### Alternative Way (faster)
 
 #### Download - [run-project-cmd](https://drive.google.com/uc?export=download&id=156FgAsyDbUaKj6OR1yHVrHAAK6_9_nfa) (click to downlaod)
 
