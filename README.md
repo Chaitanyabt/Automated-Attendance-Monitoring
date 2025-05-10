@@ -12,11 +12,9 @@
 
 ### Alternative Way (Faster)
 
-Download 
+Download - [run-project-cmd](https://drive.google.com/uc?export=download&id=156FgAsyDbUaKj6OR1yHVrHAAK6_9_nfa) (click to downlaod)
 
-[run-project-cmd](https://drive.google.com/uc?export=download&id=156FgAsyDbUaKj6OR1yHVrHAAK6_9_nfa)
-
-Extract files-
+Extract files
 - (Make sure you have both CMD in same folder)
 - (Run `Automated-Attendance-Monitoring.cmd` to run the project directly)
 - (Run `Restart-Automated-Attendance-Monitoring.cmd` to reset project)
