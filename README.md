@@ -54,11 +54,10 @@ Extract files
 ## Created by [Chaitanya](https://github.com/Chaitanyabt)
 [https://github.com/Chaitanyabt/Automated-Attendance-Monitoring]
 
-Reference-Credits:
-
-https://github.com/ageitgey/face_recognition.
-https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition
+#### Reference-Credits:
+- https://github.com/ageitgey/face_recognition.
+- https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition
  
-This project is open-source and available under the **GNU GENERAL PUBLIC LICENSE**. Please see the `LICENSE` file in for more details.
+### This project is open-source and available under the **GNU GENERAL PUBLIC LICENSE**. Please see the `LICENSE` file in for more details.
 
 
